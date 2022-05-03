@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="LoginTitle">Log In!</string>
+    <string name ="LoginButton">Log In!</string>
+    <string name ="RegistrationNewUser">New User?</string>
+
+    <string name="Register">Register!</string>
+    <string name="UsernameLabel">Username:</string>
+    <string name="PasswordLabel">Password:</string>
+    <string name="MinChars">Minimum chars:</string>
+    <string name="RegistrationTitle">Registration</string>
+    <string name="PasswordMatch">Password doesn\'t match!</string>
+    <string name="LoginFailed">Incorrect Login!</string>
+    <string name="UsernameTaken">Username not available!</string>
+</resources>
